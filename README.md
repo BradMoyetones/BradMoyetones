@@ -22,7 +22,11 @@ Soy un artesano del software. No construyo para el aplauso, sino por la naturale
 ### ⏳ La Disciplina del Código (Actividad)
 *El valor de un hombre no es mayor que el de sus ambiciones.*
 
-![Snake animation](https://github.com/BradMoyetones/BradMoyetones/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BradMoyetones/BradMoyetones/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BradMoyetones/BradMoyetones/output/github-contribution-grid-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/BradMoyetones/BradMoyetones/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
