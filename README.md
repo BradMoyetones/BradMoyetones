@@ -34,15 +34,6 @@ I am a software craftsman. I do not build for applause, but for the inherent nat
 
 ---
 
-### 🏅 The Virtue of Consistency
-*The reward of a thing well done is to have done it.*
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BradMoyetones&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-</p>
-
----
-
 ### 🌐 Connections in the Agora
 *Seek the truth, by which no one was ever truly harmed.*
 
